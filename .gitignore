@@ -1,0 +1,13 @@
+# Ignore data + outputs
+data/
+output/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
