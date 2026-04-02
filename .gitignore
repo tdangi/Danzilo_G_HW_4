@@ -11,3 +11,6 @@ __pycache__/
 
 # Mac
 .DS_Store
+
+final_hcris.csv
+
